@@ -404,7 +404,7 @@ public:
 
 		cout << score;
 
-		gotoxy(69, 2);
+		gotoxy(69, 10);
 
 		cout << "關卡:" << level;
 
