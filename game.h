@@ -238,7 +238,7 @@ public:
 
 	}
 
-	void clear_Tail() //清除蛇尾，不建議使用清屏函數，避免屏閃
+	void clear_Tail() //清除蛇尾
 
 	{
 
