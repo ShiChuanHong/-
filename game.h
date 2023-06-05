@@ -90,7 +90,7 @@ private:
 
 	short food_x, food_y;      //食物座標
 
-	int speed = 100;       //蛇的速度
+	int speed = 150;       //蛇的速度
 
 	bool snake_state = true;     //蛇的狀態
 
