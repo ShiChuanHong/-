@@ -258,7 +258,7 @@ public:
 
 		{
 
-			food_x = rand() % (width - 4) + 2; //食物要在地圖中，不能再地圖邊框上，地圖的符號在x方向佔兩個字元位置所以+2，而-4則是減去邊框
+			food_x = rand() % (width - 2) + 1;
 
 			food_y = rand() % (height - 2) + 1; //與上同理
 
