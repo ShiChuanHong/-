@@ -22,7 +22,7 @@ bool login()
 int main()
 {
     system("mode con cols=100 lines=40"); //設定開啟視窗大小
-    system("color 70"); //設定背景色和前景色
+    system("color 70"); //設定背景色和字體顏色
     system("title 貪吃蛇");
 
     while (true)
