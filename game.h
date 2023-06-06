@@ -192,7 +192,7 @@ public:
 
 		}
 
-		for (int i = 0; i <= width; i += 2) //■ 這個符號佔兩個字元位置，所以是+2
+		for (int i = 0; i <= width; i += 2) 
 
 		{
 
